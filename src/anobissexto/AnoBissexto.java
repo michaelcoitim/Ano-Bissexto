@@ -9,7 +9,7 @@ import java.util.Calendar;
 
 /**
  *
- * @author Michael Coitim 
+ * @author Michael Coitim
  */
 public class AnoBissexto {
 
@@ -21,7 +21,7 @@ public class AnoBissexto {
         int anoAtual = ano.getWeekYear();
         
             // atribuirções de testes 
-         //anoAtual = 2000;
+         anoAtual = 1991;
             
          
          // arry para mostras os dias e os meses
